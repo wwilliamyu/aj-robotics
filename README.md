@@ -10,10 +10,6 @@ http://learn.turtlebot.com/
 
 https://github.com/markwsilliman/turtlebot
 
-KEVIN
-STUART
-BOB
-
-asdfman
-
 Alex Tang Editing~
+
+I will be back! - William
